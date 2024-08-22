@@ -54,13 +54,13 @@ pip install requests numpy matplotlib
 1. **Clone The Repository:**
 
 ```bash
-git clone https://github.com/mertctn/ephemerides-comparison-tool.git
+git clone https://github.com/MertCtn/JPLHorizonComparisonTool.git
 ```
 
 2. **Navigate to the Project Directory:**
 
 ```bash
-cd ephemerides-comparison-tool
+cd JPLHorizonComparisonTool
 ```
 
 3. **Install Dependencies:**
